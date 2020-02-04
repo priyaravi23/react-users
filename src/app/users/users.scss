@@ -17,7 +17,7 @@
     flex-wrap: wrap;
 }
 .table-header {
-    background-color: #36304a;
+    background-color: #E37A7A;
     color: white;
     width: 100%;
 .column:hover {
@@ -95,10 +95,10 @@ button {
 }
 @keyframes blinking {
     0% {
-        background-color: #0078e7;
+        background-color: #E3A67A;
     }
     100% {
-        background-color: #36304a;
+        background-color: #7ab2e3;
         color: white;
     }
 }
